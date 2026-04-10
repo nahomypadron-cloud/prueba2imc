@@ -1,0 +1,16 @@
+body {
+  background-image: url("https://www.almalibreacaihouse.com/wp-content/uploads/2020/12/importancia-comida-sana-vida-saludable.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
