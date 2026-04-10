@@ -60,7 +60,7 @@ onChange={(e)=> setEstatura(e.target.value)}
 Calcular
 </button>
 
-<h3>Tu IMC es:</h3>
+<h3>Tu IMC sdjfsdñlflkslñkfñkfñskldfsdflñksdflksdfklñdsldfklñdflñk es:</h3>
 <h1>{imc}</h1>
 
 <h3>Tu estado de nutrición es:</h3>
